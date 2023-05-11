@@ -1,12 +1,19 @@
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
+
 body {
-    background-image: url("fondo.jpg")
+    background-image: url("fondo.jpg");
+    background-repeat: no-repeat ;
+    background-size: cover;
+    
+
 }
+
 
 .titulo {
     width: 400px;
@@ -59,10 +66,10 @@ body {
     width: 100%;
     padding: 10px;
     border-radius: 4px;
-    margin-bottom: 16px;
+    margin-bottom: 18px;
     border: 1px solid #ffffff;
     font-family: 'calibri';
-    font-size: 18px;
+    font-size: 12px;
 
 
 }
