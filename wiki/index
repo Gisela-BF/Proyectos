@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Kentaro Miura</title>
+	<link rel="stylesheet" href="style.css">
+	<style>
+		p {
+		  font-family: "From Cartoon Blocks", sans-serif;
+		}
+	  </style>
+
+</head>
+
+
+<body>
+	<header>
+	<button id="dark-mode-toggle">Modo Oscuro</button>
+		<nav>
+			<ul class="scrolling-list">
+				
+				<li><a href="#Biografía">Biografía</a></li>  
+				<li><a href="#Obras">Obras</a></li>
+				
+			</ul>
+		</nav>
+	</header>
+	<main>
+		<section class="tituloprincipal">
+			<h1>Kentaro Miura(三浦建太郎, Miura Kentarō)</h1> <img src="foto kentaro Miura.jpeg" id="fotokentaro">
+		</section>
+		<section class="seccion1">
+			<p>fue un dibujante de manga japonés, su obra más icónica Berserk.</p>
+		</section>
+		<section id="Biografía">
+			<h2>Biografía</h2>
+			<p>Nació un 11 de julio de 1966 en Chiba, Japón. Su padre creaba storyboards para anuncios y su madre era profesora de arte. En este entorno artístico, desde pequeño soñó con convertirse en dibujante de cómics, por lo que estudió bellas artes. En 1976 creó su primera obra, "Miuranger", que tuvo como público a sus compañeros de clase. Su segunda obra, "Ken e no Michi", fue creada en su época de instituto, en 1982. Para iniciar sus estudios universitarios en la Facultad de Arte de la Universidad Nihon en 1985, Miura creó la obra de ciencia ficción a número único "Futatabi", que le valió la nominación a "mejor autor debutante" por la revista Shūkan Shōnen Magazine. Ese mismo año, fue en Fresh Magazine donde se publicó "NOA", obra también de ciencia ficción hasta que fue cancelada por desacuerdos con uno de los editores. En noviembre de 1988, creó Berserk - The Prototype, publicada en Gekkan KomiKomi.</p>
+			<p>Al terminar sus estudios en 1989, tuvo la oportunidad de trabajar con Buronson, realizando los diseños en "Oh-Roh" y "Oh-Roh-Den" mientras que Buronson contribuía con el guionizado. Ambas fueron publicadas en Animal House. La primera fue publicada entre mayo y julio, mientras que la segunda fue publicada entre febrero y junio de 1990. En 1989 también se publicó en dicha revista el primer tomo de Berserk, serie en la que sigue trabajando. Su última colaboración con Buronson fue en "Japan", de 1992, ya en Young Animal. En el número 11 de Young Animal, Berserk cambia su estructura de nomenclatura de lanzamientos, pasando a saga-capítulo-episodio.</p>
+			<p>En 1996, Kentaro Miura realizó su primera colaboración audiovisual al supervisar el trabajo de OLM, Inc. y VAP en Berserk (1997). Según la entrevista incluida en la edición en DVD para América del Norte, el propio Miura ofreció consejo a los miembros del estudio en cuanto a diseños de los personajes, aunque su mayor preocupación eran los guiones, los cuales supervisó, realizando sugerencias y cambios cuando fue necesario. La siguiente fue en 1999 como supervisor ejecutivo de Sword of the Berserk: Guts' Rage, el primer videojuego de la franquicia Berserk. Aquí, Miura aportó los diseños de los personajes (incluyendo los nuevos personajes y los enemigos) y el guion de la historia.</p>
+			<p>En 2002 recibió el premio Osamu Tezuka en la categoría "Excelencia". gracias a Berserk. En ese mismo día, se le hizo una entrevista donde afirmó que realmente él no tenía una idea clara de lo que iba a hacer antes de empezar Berserk y que uno de sus ídolos es Gō Nagai, creador de Mazinger Z o Devilman. En otra entrevista (publicada en la página cultural de la edición matutina del 11 de junio de 2002 del periódico Asahi Shimbun), confesó que, desde que empezó Añadió que, aunque no llegaría a arriesgar su vida por la obra, dedicó la mayor parte a Berserk, y esperaba que se añadiese a la lista de obras maestras. En otra entrevista para la edición matutina del Asahi Shimbun el 28 de mayo del mismo año, afirmó no saber cuándo llegaría el final y que su obra favorita de Tezuka es "Dororo". </p>
+			<p>En 2013, Miura creó la obra "Gigantomaquia". En 2003, Miura creó ilustraciones para el juego de cartas de Berserk distribuido por Konami. Este juego tuvo más de 450 cartas publicadas en cuatro expansiones entre el 27 de noviembre de ese año y el 17 de marzo de 2005. En 2004, Miura colaboró en la creación de Berserk: Millennium Falcon Hen Seima Senki no Shō, el segundo videojuego de la franquicia Berserk, creando una nueva trama.</p>
+			<p>En 2010</p>
+			<p>Kentaro Miura realizó una pequeña obra satírica publicada en Young Animal en la que se ridiculizaba una ordenanza por la cual se buscaba prohibir la venta de obras con personajes menores de edad en actitudes sexuales a menores de edad. Dicha ordenanza fue criticada debido a cómo no solo restringiría a los autores, sino que en ciertos aspectos otorgaría más derechos a dibujos que a menores de edad de carne y hueso.</p>
+			<p>En 2012</p>
+			<p>Kentaro Miura creó ilustraciones que acompañaron al lanzamiento en el mercado casero de las películas que cubrieron La Edad de Oro. Tras ver la obra (producida en un 90%), Miura dijo sentirse "aliviado". Cuando vieron la versión acabada, Miura dijo que era buena al tener el acabado de la prueba de concepto que se le había enseñado en 2008. Esta prueba de concepto fue mostrada a Kentaro Miura y Akira Shimada, el editor de Berserk en la editorial Hakusensha, en el estudio de edición. Miura comentó, ante el nerviosismo de los animadores, que "era maravilloso". Para la investigación sobre el trasfondo (Edad Media europea), el propio Miura permitió a los animadores estar en su lugar de trabajo y consultar su vasta colección de materiales de consulta, pudiendo llevársela al estudio. Cuando terminaron el guión, Miura ofreció consejo extra, así como para los diseños de personajes y escenas.</p>
+			<p>En 2013</p>
+			<p>Kentaro Miura no pudo continuar el manga por un tiempo debido a su mal estado de salud, pero reconoció que en cuanto estuviera mejor, tenía pensado continuar el manga. Fuentes: Miura-enfermedad</p>
+			<p>La revista Young Animal Magazine anunció que Kentaro Miura iniciaría una nueva mini-serie a principios del 2014. Esta serie se titula Gigantomaquia y sus sucesos ocurren 100 millones de años en el futuro. Consta de siete partes que fueron publicados en la revista Young Animal entre noviembre de 2013 y febrero de 2014. Miura afirmó que fue su forma de celebrar el vigésimo aniversario de Young Animal. Cuando Miura terminó esta serie, continuó con Berserk. Fuentes: Gigant Makia</p>
+			<p>En 2016</p>
+			<p>Kentaro Miura fue el supervisor ejecutivo de la segunda adaptación a serie animada de la obra, que comenzó a emitirse en verano de ese año y ha finalizado dos temporadas. Para esta serie, Miura creó la trama del tercer episodio y sendas ilustraciones para los dos lanzamientos de la serie en Blu-Ray. Además, ha sido entrevistado con Tetsuo Hara, quien supone una de sus mayores influencias, y han intercambiado ilustraciones. En octubre de dicho año, realizó una ilustración de Rei Kiriyama, uno de los personajes principales del manga Sangatsu no Lion, creado por Chica Umino, quien ya en el pasado hizo una serie de ilustraciones sobre Berserk.</p>
+			<p>En 2017</p>
+			<p>Kentaro Miura creó diez ilustraciones y la portada de la novela Berserk: El Caballero del Dragón de Fuego, escrita por Fukami Makoto.</p>
+			<p>En 2019</p>
+			<p>Tras el anuncio de Dur-An-Ki, obra de Studio Gaga (sus ayudantes) Miura afirmó en esta entrevista que su creación partió de compartir ideas con su editor. En un principio, Dur-An-Ki iba a ser un manga isekai con viajes en el tiempo, pero esta idea fue desechada por su sobreuso, escogiendo finalmente un trasfondo mitológico-fantástico</p>
+			<p>En 2020</p>
+			<p>Kentaro Miura contribuyó con diversas piezas para los incentivos a quienes financiaran la estatua de Zodd para la exposición de Berserk a realizar el año siguiente. También realizó un prefacio para la página web del acontecimiento, haciendo referencia a una frase dicha por Void al inicio del Eclipse:</p>
+			<p>"Sin contar los acontecimientos relacionados con las adaptaciones a animación y con Hakushenka, he llegado hasta este punto sin realizar sesiones de autógrafos, y mucho menos celebrar hitos como el décimo o el vigésimo aniversario. Al no usar Twitter o blogs, no me extrañaría que la gente cuestione si soy un artista de manga moderno.</p>
+			<p>Sin embargo, este 30 aniversario es un poco distinto, Además de mostrar las ilustraciones que se han ido acumulando, se creará una agradable "tierra del Eclipse" por el personal involucrado en extender el amor por Berserk cual enfermedad contagiosa. Por favor, haz saber a tus conocidos sobre este evento y venid para deshaceros de la fatalidad de la COVID-19. Bienvenidos a la ceremonia."</p>
+			<p>    Kentaro Miura, 9 de octubre de 2020.</p>
+			<p>En 2021</p>
+			<p>El 20 de mayo de 2021, la cuenta de Twitter berserk_project anunció que Kentaro Miura había fallecido el 6 de mayo del mismo año a causa de una disección aórtica aguda.</p>
+			<p></p>
+		
+
+
+
+		  </section>
+		  <section id="Obras">
+			<h2>Obras</h2>
+			<p>Miuranger</p>
+			<p>Ken e no Michi</p>
+			<p>Futatabi</p>
+			<p>NOA</p>
+			<p>Berserk - The Prototype</p>
+			<p>Oh-Roh (subtitulada "El rey lobo" en su edición en MangaLine)</p>
+			<p>Berserk</p>
+			<p>Oh-Roh-Den</p>
+			<p>Japan</p>
+			<p>Gigantomaquia</p>
+			<p>Dur-An-Ki (creador de storyboard, desarrollador de proyecto, comprobación de calidad y ajustes finales según esta entrevista).</p>
+
+		  </section>
+	</main>
+	<footer>
+		<p>Derechos reservados &copy; 2023 Kentaro Miura.</p>
+	</footer>
+	<script src="script.js"></script>
+</body>
+</html>
