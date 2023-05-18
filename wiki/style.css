@@ -1,0 +1,171 @@
+/* Estilos para pantallas pequeñas */
+@media (max-width: 600px) {
+	header {
+		background-color: #70ace4;
+		color: #fff;
+	}
+}
+
+/* Estilos para pantallas medianas */
+@media (min-width: 601px) and (max-width: 900px) {
+	header {
+		padding: 10px;
+	}
+	nav ul {
+		display: flex;
+		flex-direction: row;
+		align-items: c;
+	}
+	nav li {
+		margin: 5px;
+	}
+}
+
+/* Estilos para pantallas grandes */
+@media (min-width: 901px) {
+	header {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		padding: 20px;
+	}
+	nav ul {
+		display: flex;
+	}
+	nav li {
+		margin: 0 10px;
+	}
+}
+
+/* Estilos generales */
+body {
+	margin: 0;
+	padding: 0;
+  }
+  
+
+  
+  /* Estilos para imágenes */
+  img {
+	width: auto;
+	height: auto;
+  }
+  
+  /* Estilos para dispositivos móviles */
+  @media (max-width: 768px) {
+	/* Ajustar estilos para pantallas más pequeñas */
+	section {
+	  padding: 10px;
+	}
+  }
+
+
+body {
+	background-color: #70ace4; /* Color de fondo claro */
+	color: #000; /* Color de texto claro */
+  }
+  
+  body.dark-mode {
+	background-color: #333; /* Color de fondo oscuro */
+	color: #fff; /* Color de texto oscuro */
+  }
+
+  #dark-mode-toggle {
+	position: fixed;
+	top: 20px;
+	right: 20px;
+	transform: translate(-50%, 0);
+  }
+
+  ul li a,
+  ol li a {
+	color: #e4dada; /* Cambia el color a tu preferencia, por ejemplo, rojo (#ff0000) */
+	text-decoration: none; /* Quita el subrayado de los enlaces */
+  }
+  
+  ul li a:hover,
+  ol li a:hover {
+	text-decoration: underline; /* Agrega un subrayado en los enlaces al pasar el cursor sobre ellos */
+	font-weight: bold; /* Establece un grosor de fuente en negrita al pasar el cursor sobre los enlaces */
+  }
+  
+  @font-face {
+	font-family: 'MiFuentePersonalizada';
+	src: url('Zerafoc.ttf');
+}
+
+h1,h2 {
+	font-family: 'MiFuentePersonalizada', sans-serif;
+}
+
+h1 {
+	font-size: 100px; /* Cambia el tamaño de fuente a tu preferencia para h1 */
+  }
+
+h2 {
+	font-size: 50px; /* Cambia el tamaño de fuente a tu preferencia para h1 */
+}
+
+
+  .tituloprincipal {
+	display: flex;
+	align-items: center;
+  }
+  
+  .aligned-image {
+	margin-right: 10px;
+  }
+  
+
+  .tituloprincipal {
+	display: flex;
+	align-items: center;
+  }
+  
+  .tituloprincipal h1 {
+	flex: 1;
+  }
+  
+  .fotokentaro {
+	margin-left: 10px;
+  }
+  p {
+	font-family: "From Cartoon Blocks.ttf";
+  }
+
+  .scrolling-list {
+	overflow-x: auto;
+	white-space: nowrap;
+  }
+  
+  .scrolling-list li {
+	display: inline-block;
+	margin-right: 10px;
+  }
+  
+  .scrolling-list a {
+	display: inline-block;
+	padding: 8px 12px;
+	background-color: #f5f5f5;
+	border-radius: 5px;
+	text-decoration: none;
+	color: #333;
+	transition: background-color 0.3s;
+  }
+  
+  .scrolling-list a:hover {
+	background-color: #999;
+	color: #fff;
+  }
+
+  .seccion1 {
+	margin-bottom: 20px;
+  }
+  
+  #Biografía {
+	margin-top: 50px;
+  }
+  
+  
+
+  
