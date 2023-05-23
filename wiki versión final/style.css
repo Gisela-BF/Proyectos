@@ -1,0 +1,278 @@
+.scroll-to-top {    /*para ir arriba al llegar al final de la pagina*/
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  width: 50px;
+  height: 50px;
+  background-color: #1f703a;
+  color: #fff;
+  text-align: center;
+  line-height: 50px;
+  font-size: 14px;
+  text-decoration: none;
+  border-radius: 50%;
+  opacity: 100%;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.scroll-to-top.hidden {
+  opacity: 0;
+  pointer-events: none;
+}
+
+.scroll-to-top.visible {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.encabezado {
+  border-radius: 30px;
+  box-shadow: 8px 16px 32px rgb(0, 0, 0);
+
+}
+
+
+.seccion1{
+    display:flex;
+    flex-wrap: wrap;
+    padding: 25px;
+    font-family: "From Cartoon Blocks.ttf";
+    font-size: 200%;
+
+    
+}
+
+.tituloprincipal{
+    display:flex;
+    flex-wrap: wrap;
+    padding: 25px;
+    border-radius: 30px;
+  
+
+
+}
+.contenedor-flex {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  #Biografía {
+    flex: 2;    
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 50px;
+    font-family: "From Cartoon Blocks.ttf";
+    font-size: 150%;
+    padding: 25px;
+    
+  }
+  #formulario{
+    flex: 1;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 30%;
+    max-height: 300px;
+    margin-right: 0;
+    padding: 20px;
+    
+    box-shadow:  5px 5px 5px #1f703a;
+    background: #24303c;
+    flex-grow: 0; /* No crece */
+    flex-shrink: 25px; /* No encoge */
+    font-family: "From Cartoon Blocks.ttf";
+    text-align: center;
+    font-size: 150%;
+    color: white;
+  }
+
+  .control {
+    border-radius: 20px;
+    margin: 10px 0;
+
+  }
+
+  .boton {
+    margin: 14px 0;
+    border-radius: 30px;
+    background: rgb(179, 114, 114);
+  }
+
+
+  
+
+#Obras{
+    padding: 25px;
+    
+    flex-wrap: wrap;}
+body {
+	     /* para pasar entre modo oscuro y claro */
+    background-color: #90d0fa; /* Color de fondo claro */
+    color: #000; /* Color de texto claro */
+  }
+  
+  body.dark-mode {   
+    background-color: #333; /* Color de fondo oscuro */
+    color: #fff; /* Color de texto oscuro */
+  }
+
+  #dark-mode-toggle {
+    display:flex;
+    flex-wrap: wrap;
+    position: fixed;
+    font-size: 100%;
+    color:#fff;
+    border-radius: 30px;
+    background-color: #2325bd;
+    top: 50px;
+    right: 0%;
+    transform: translate(-8%, 0);
+  }
+
+  @font-face {
+    font-family: 'MiFuentePersonalizada';
+    src: url('Zerafoc.ttf');
+}
+
+h1,h2 {
+    font-family: 'MiFuentePersonalizada', sans-serif;
+}
+
+h1 {
+    font-size: 70px; /* Cambia el tamaño de fuente  para h1 */
+  }
+
+h2 {
+    font-size: 50px; /* Cambia el tamaño de fuente  para h1 */
+}
+
+
+    .aligned-image {
+    margin-right: 10px;
+  }
+  
+
+  .tituloprincipal {
+    display: flex;
+    align-items: center;
+  }
+  
+  .tituloprincipal h1 {
+    flex: 1;
+  }
+
+  
+
+  
+  #fotokentaro {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: 5%;
+    width: 50%; /* Establece el ancho deseado */
+    height: 50%; /* Ajusta la altura proporcionalmente */
+    max-width: 100%; /* Limita el ancho máximo al tamaño del contenedor */
+    max-height: 100%; /* Limita la altura máxima */
+
+  }
+
+  .enlaces {
+    display:flex;
+    flex-wrap: wrap;
+  }
+
+  
+  .enlaces li {
+    
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  .enlaces a {
+    
+    display: inline-block;
+    padding: 8px 12px;
+    background-color: #e92121;
+    box-shadow: 4px 12px 16px rgb(0, 0, 0);
+    border-radius: 5px;
+    text-decoration: none;
+    color: #ffffff;
+    transition: background-color 0.3s;
+    
+  }
+  
+
+  .seccion1 {
+    margin-bottom: 20px;
+    
+  }
+
+  .imagenes {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+    text-decoration: none;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+  }
+ 
+  .imagen {
+    
+    flex: 0 0 25%; /* Cada imagen ocupa el 25% del ancho del contenedor */
+    padding: 20px;
+    margin: 5%;
+    box-sizing: border-box;
+    box-shadow: 8px 16px 32px rgb(0, 0, 0);
+    text-align: center;
+    background: #9c1313;
+    font-size: 24px;
+    color: white;
+    
+  }
+  
+  .imagen p {
+    
+    margin-top: 10px;
+    text-decoration: none;
+    
+    
+  }
+  
+  .imagen img {
+    width: 100%;
+    height: auto;
+    
+  }
+
+  
+  
+  @media screen and (max-width: 768px) {
+    /* Cuando la pantalla sea menor o igual a 768px */
+    .imagen {
+      flex-basis: 50%; /* Cada imagen ocupa el 50% del ancho del contenedor */
+    }
+  }
+  
+  @media screen and (max-width: 480px) {
+    /* Cuando la pantalla sea menor o igual a 480px */
+    .imagen {
+      flex-basis: 100%; /* Cada imagen ocupa el 100% del ancho del contenedor */
+    }
+  }
+  
+  .footer {
+    padding:25px;
+  }
+
+
+
+  
+  
+  
+  
+  
+
+  
+
+  
+  
+
+  
